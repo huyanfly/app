@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "spring.datasource.dbcp2.max-activ",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.dbcp2.max-activ."
+  }
+] }
