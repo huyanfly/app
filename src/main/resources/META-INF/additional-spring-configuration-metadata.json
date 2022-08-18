@@ -4,5 +4,10 @@
       "name": "spring.datasource.dbcp2.max-activ",
       "type": "java.lang.String",
       "description": "Description for spring.datasource.dbcp2.max-activ."
-  }
-] }
+    },
+    {
+      "name": "spring.datasource.mvc",
+      "type": "java.lang.String",
+      "description": "Description for spring.datasource.mvc."
+    }
+  ] }

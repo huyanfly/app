@@ -10,5 +10,8 @@ spring:
       initial-size: 5
       min-idle: 5
       max-idle: 20
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
 
 

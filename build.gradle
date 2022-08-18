@@ -28,7 +28,9 @@ dependencies {
                     //<!-- mybatis-plus 自动代码生成-->
                     'com.baomidou:mybatis-plus-generator:3.4.0',
                     //<!--mybatis-plus freemarker 模板引擎 -->
-                    'org.freemarker:freemarker:2.3.30'
+                    'org.freemarker:freemarker:2.3.30',
+                   /* swagger*/
+                    'io.springfox:springfox-boot-starter:3.0.0',
     )
     compileOnly 'org.projectlombok:lombok'
     runtimeOnly 'mysql:mysql-connector-java:5.1.16'
