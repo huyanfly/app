@@ -14,7 +14,6 @@ import org.springframework.web.bind.annotation.RestController;
  * @since 2022-08-13
  */
 @RestController
-@RequestMapping("/user")
 public class UserController {
 
 }
